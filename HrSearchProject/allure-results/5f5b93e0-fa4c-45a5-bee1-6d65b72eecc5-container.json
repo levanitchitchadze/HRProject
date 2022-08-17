@@ -1,0 +1,1 @@
+{"uuid":"5f5b93e0-fa4c-45a5-bee1-6d65b72eecc5","name":"CitySearchTest","children":["2d0fc02a-55fc-4d5d-be09-c2691250ffb7"],"befores":[{"name":"OpenBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1660744910090,"stop":1660744983868}],"afters":[],"start":1660744909994,"stop":1660744990794}
