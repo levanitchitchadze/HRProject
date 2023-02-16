@@ -1,0 +1,1 @@
+{"uuid":"0a7d68ec-e145-4429-a40d-e6f204151e02","name":"ProjectHRPartOneSigninRegistration","children":["72576872-30ab-41f8-a815-7fdac34b59e6"],"befores":[{"name":"OpenBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1660640104160,"stop":1660640115745}],"afters":[],"start":1660640104086,"stop":1660640117342}
